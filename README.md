@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # World Happiness Report Analysis (2020–2024)
 
 ## Deskripsi
@@ -144,3 +145,6 @@ world-happiness-analysis/
 - **Nama:** Muhammad Nur Alif Ramadhan
 - **Capstone Project** — Data Classification & Summarization
 - **Tahun:** 2025
+=======
+# IBM-world-happiness-analysis
+>>>>>>> 9e7f241312c9a6b188c2408c2582ba63220bf42e
