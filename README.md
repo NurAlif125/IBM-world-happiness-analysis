@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # World Happiness Report Analysis (2020–2024)
 
 ## Deskripsi
